@@ -1,2 +1,2 @@
 # FDF_42
-![](name-of-giphy.gif)
+![](42.gif)
